@@ -1,2 +1,2 @@
 # Landing-Page
- Uma Landing Page somente com HTML E CSS
+ Site em formato Landing Page com responsividade.
